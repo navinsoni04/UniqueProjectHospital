@@ -30,6 +30,7 @@ margin-right:3vw;
 }
 .nav-bar li{
 font-size:1em;
+color: white;
 font-weight:lighter;
 padding-left:30px;
 list-style:none;
@@ -37,6 +38,7 @@ list-style:none;
 .app{
 margin-left:3vw;
 margin-top:2vh;
+color: white;
 }
 .head{
 display:flex;
@@ -131,3 +133,46 @@ flex-wrap: wrap;
     height: 160px;
     border-radius: 15px;
 }
+/* Navin day 2 section for hospital lists*/
+
+.middle{
+    margin:60px 150px;
+    }
+    .sec-2 h2{
+    font-size:1.5rem;
+    font-width:lighter;
+    margin:bottom:5px;
+    }
+    .sec-2 h6{
+    margin:0px;
+    
+    font:width:lighter;
+    color:grey;
+    }
+    .box-1{
+    width:300px;
+    height:400px;
+    overflow:hidden:
+    position:relative;
+    border-radius:8px;
+    }
+    .box-1 div{
+    position:absolute;
+    width:100%;
+    height:25%;
+    display:flex;
+    
+    }
+    .box-1 img{
+    width:250px;
+    height:350px;
+    margin:10px;
+    border-radius:5px;
+    }
+    .sec-3{
+    display:flex;
+    margin-top:5px;	
+    margin-bottom:10px;
+    justify-content:space-between;
+    }
+    
